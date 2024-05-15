@@ -6,7 +6,7 @@
 
 ---
 
-hi ^_^ this is mainly for coding toyhou.se bios i make. as such all html only works on toyhou.se/with bootstrap :p 
+hi ^_^ this is mainly for hosting toyhou.se bios i make. as such all html only works on toyhou.se/with bootstrap :p 
 
 my toyhouse has guest block _on_ and will only be turned off during artfight season. if there's issues accessing the toyhou.se listing please contact me here
 
