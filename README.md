@@ -7,6 +7,10 @@ my toyhouse has guest block _on_ and will only be turned off during artfight sea
 >
 > prone to talking about melly plinius idv at any given moment 🐝 
 
+to do when im done with 
+[] make a java applet for better putting together the pjskareaconvo code
+[] birthday calender code
+[] maybe actually working on my website 
 
 <!---
 entomologist1/entomologist1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
