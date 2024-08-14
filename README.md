@@ -12,7 +12,8 @@ my toyhouse has guest block _on_ and will only be turned off during artfight sea
 
    to do when im done with finals
    - make a java applet for better putting together the pjskareaconvo code :heavy_check_mark:
-   - birthday calender code 
+   - birthday calendar html code
+   - java applet for putting together birthday calendar html code
    - maybe actually working on my neocities 
 
 <!---
