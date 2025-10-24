@@ -9,7 +9,7 @@
 hi ^_^ this is mainly for hosting toyhou.se bios i make. as such all html only works on toyhou.se/with bootstrap :p 
 
    to do when im done with finals
-   - make a java applet for better putting together the pjskareaconvo code :heavy_check_mark:
+   - make a java applet for better putting together the pjskareaconvo code 
    - birthday calendar html code
    - java applet for putting together birthday calendar html code
    - maybe actually working on my neocities 
