@@ -14,6 +14,8 @@ hi ^_^ this is mainly for hosting toyhou.se bios i make. as such all html only w
    - birthday calendar html code
    - page for putting together birthday calendar html code
 
+Does anyone know how to get rid ofthe copilot commit notes its killing my nonchalant vibe
+
 <!---
 entomologist1/entomologist1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
