@@ -2,7 +2,7 @@
 > [!WARNING]
 > <img src = "https://i.pinimg.com/originals/dd/3f/49/dd3f499c3d0663dafb82faeb73f84ac3.gif" height="100" > <img src = "https://patchwiki.biligame.com/images/dwrg/1/1e/e2pukasnvmjykweianaf0585qwj8pjg.gif" height="100" >
 >
-> prone to talking about melly plinius idv at any given moment 🐝 
+> Melly plinus 🐝 
 
 ---
 
