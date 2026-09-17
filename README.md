@@ -10,7 +10,7 @@ hi ^_^ this is mainly for hosting toyhou.se bios i make. as such all html only w
 
    to do when im done with finals
    - revamping my neocities ✅
-   - make a page for better putting together the pjskareaconvo code 
+   - make a page for better putting together the pjskareaconvo code  ⏳
    - birthday calendar html code
    - page for putting together birthday calendar html code
 
